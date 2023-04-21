@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SamIp-ac
-- 👀 I’m interested in Novels, DS
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on AI companies
+- 👋 @SamIp-ac
+- 👀 Novels, DS
 - email samip.6099@[google]
 
 <!---
