@@ -1,5 +1,4 @@
 - 👋 @SamIp-ac
-- 👀 Novels, DS
 - email samip.6099@[google]
 
 <!---
